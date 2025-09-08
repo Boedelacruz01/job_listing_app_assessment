@@ -1,16 +1,33 @@
-# cbo_mobile_assesment
+# Job Listing App (Proof of Concept)
 
-A new Flutter project.
+A Flutter-based mobile application that allows users to **sign up, log in, create job listings, and view job details**.  
+This project serves as a Proof of Concept (PoC) to demonstrate the use of **Flutter, Firebase Authentication, and Firestore** for building a functional and user-friendly app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- User Authentication  
+  - Sign-Up with email & password  
+  - Login with email & password  
+- Job Management  
+  - Create new job listings  
+  - View all jobs created by the logged-in user  
+  - View job details with styled UI  
+  - Delete jobs with swipe-to-dismiss  
+- Modern Material 3 design with light/dark theme support  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (Dart)  
+- **Firebase Authentication** (email/password)  
+- **Cloud Firestore** (job listing database)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/job-listing-app.git
+   cd job-listing-app
