@@ -29,5 +29,5 @@ This project serves as a Proof of Concept (PoC) to demonstrate the use of **Flut
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/job-listing-app.git
-   cd job-listing-app
+   [git clone https://github.com/your-username/job-listing-app.git
+   cd job-listing-app](https://github.com/Boedelacruz01/job_listing_app_assessment.git)
