@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965508492160",
+    "project_id": "cbo-joblist-mobileapp",
+    "storage_bucket": "cbo-joblist-mobileapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965508492160:android:a3cfceec58aad6c39d2f65",
+        "android_client_info": {
+          "package_name": "com.example.cbo_mobile_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxkB4soUR9OxyaUt-dgYNHxJPGWjzeyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
